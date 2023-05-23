@@ -23,6 +23,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 Ivedimas", "04 Ivedimas"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoIvedimas", "DemoIvedimas\DemoIvedimas.csproj", "{065A930F-CDBD-4369-AF26-81F32CF77E4A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 If Salyga", "05 If Salyga", "{EDAE8AFE-636C-4627-9F88-F34F1A6776A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoIfSalyga", "DemoIfSalyga\DemoIfSalyga.csproj", "{80416A09-4F3E-4161-96A2-D446EF5F3571}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +57,10 @@ Global
 		{065A930F-CDBD-4369-AF26-81F32CF77E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{065A930F-CDBD-4369-AF26-81F32CF77E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{065A930F-CDBD-4369-AF26-81F32CF77E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80416A09-4F3E-4161-96A2-D446EF5F3571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80416A09-4F3E-4161-96A2-D446EF5F3571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80416A09-4F3E-4161-96A2-D446EF5F3571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80416A09-4F3E-4161-96A2-D446EF5F3571}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,6 +72,7 @@ Global
 		{80F13E4E-FCD0-4993-A3B6-4F33AA059D2A} = {03BEAEB7-CC0B-4F86-8C73-CE430366BA33}
 		{E3DAA112-BC41-4444-85A3-0DC43D7284EF} = {C8A4A466-1A18-4213-87F1-1463F27EDD39}
 		{065A930F-CDBD-4369-AF26-81F32CF77E4A} = {9116111D-C778-46A5-971B-8F8F8A94FCF5}
+		{80416A09-4F3E-4161-96A2-D446EF5F3571} = {EDAE8AFE-636C-4627-9F88-F34F1A6776A1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {158274F5-A25C-48CE-8FF8-489350410DE0}
