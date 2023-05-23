@@ -19,6 +19,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 Aritmetiniai Veiksmai", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAritmetiniaiVeiksmai", "DemoAritmetiniaiVeiksmai\DemoAritmetiniaiVeiksmai.csproj", "{E3DAA112-BC41-4444-85A3-0DC43D7284EF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 Ivedimas", "04 Ivedimas", "{9116111D-C778-46A5-971B-8F8F8A94FCF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoIvedimas", "DemoIvedimas\DemoIvedimas.csproj", "{065A930F-CDBD-4369-AF26-81F32CF77E4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,10 @@ Global
 		{E3DAA112-BC41-4444-85A3-0DC43D7284EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3DAA112-BC41-4444-85A3-0DC43D7284EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3DAA112-BC41-4444-85A3-0DC43D7284EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{065A930F-CDBD-4369-AF26-81F32CF77E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065A930F-CDBD-4369-AF26-81F32CF77E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065A930F-CDBD-4369-AF26-81F32CF77E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065A930F-CDBD-4369-AF26-81F32CF77E4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,6 +63,7 @@ Global
 		{6996AC81-6ECF-453B-A99E-02BD45C27465} = {03BEAEB7-CC0B-4F86-8C73-CE430366BA33}
 		{80F13E4E-FCD0-4993-A3B6-4F33AA059D2A} = {03BEAEB7-CC0B-4F86-8C73-CE430366BA33}
 		{E3DAA112-BC41-4444-85A3-0DC43D7284EF} = {C8A4A466-1A18-4213-87F1-1463F27EDD39}
+		{065A930F-CDBD-4369-AF26-81F32CF77E4A} = {9116111D-C778-46A5-971B-8F8F8A94FCF5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {158274F5-A25C-48CE-8FF8-489350410DE0}
