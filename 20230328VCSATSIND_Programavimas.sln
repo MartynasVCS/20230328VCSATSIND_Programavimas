@@ -51,6 +51,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06 Switch Salyga", "06 Swit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSwitch", "DemoSwitch\DemoSwitch.csproj", "{0F6AB85B-81D0-4F0A-B538-08C3BAE561EB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07 For Ciklas", "07 For Ciklas", "{C04C2CA5-BDCE-41F9-8F0A-484F96C40596}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoForCiklas", "DemoForCiklas\DemoForCiklas.csproj", "{5241FD31-798F-4BDF-8822-6BBAD885FC75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +133,10 @@ Global
 		{0F6AB85B-81D0-4F0A-B538-08C3BAE561EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F6AB85B-81D0-4F0A-B538-08C3BAE561EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F6AB85B-81D0-4F0A-B538-08C3BAE561EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5241FD31-798F-4BDF-8822-6BBAD885FC75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5241FD31-798F-4BDF-8822-6BBAD885FC75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5241FD31-798F-4BDF-8822-6BBAD885FC75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5241FD31-798F-4BDF-8822-6BBAD885FC75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -152,6 +160,7 @@ Global
 		{0BC59ED9-6752-4602-AD9F-7C52C4BB2D34} = {EDAE8AFE-636C-4627-9F88-F34F1A6776A1}
 		{BDDC8793-068B-49A9-B7CB-97DC70E14131} = {EDAE8AFE-636C-4627-9F88-F34F1A6776A1}
 		{0F6AB85B-81D0-4F0A-B538-08C3BAE561EB} = {67549D4A-678B-4106-BE12-ECDFC886C145}
+		{5241FD31-798F-4BDF-8822-6BBAD885FC75} = {C04C2CA5-BDCE-41F9-8F0A-484F96C40596}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {158274F5-A25C-48CE-8FF8-489350410DE0}
