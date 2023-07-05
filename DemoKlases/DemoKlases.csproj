@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F29996D6-38F1-4837-B898-85D215BD61B0}</ProjectGuid>
+    <ProjectGuid>{03C37E24-8EFF-459B-BEF5-5FB50536CDED}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DemoMetodai</RootNamespace>
-    <AssemblyName>DemoMetodai</AssemblyName>
+    <RootNamespace>DemoKlases</RootNamespace>
+    <AssemblyName>DemoKlases</AssemblyName>
     <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Automobilis.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Skaiciuotuvas.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
